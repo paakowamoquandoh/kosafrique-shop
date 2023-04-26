@@ -1,0 +1,15 @@
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:60px;
+    width:100%;
+    background: var(--main-color);
+    color: white;
+ }
+ #footer p {
+    text-align: center;
+    color: var(--secondary-color);
+    
+ }
+  
