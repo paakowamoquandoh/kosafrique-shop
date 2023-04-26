@@ -273,6 +273,7 @@ button.white{
     flex-wrap: wrap;
     align-items: center;
     background-color: black;
+    margin-bottom: -0.3rem;
  }
 
  .newsletter .signUpFrom{
@@ -742,6 +743,13 @@ section aside .filterArea .itemsCheck li i{
 
 section aside .filterArea .clothesChecked h6{
   font-size: 12px;
+ }
+
+ #footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
  }
 
   /*  */
